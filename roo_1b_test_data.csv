@@ -1,0 +1,98 @@
+First_prompt,First_response,First_label
+"""How do I insert a tampon?""","""Tampons are like little cotton plugs that go in your vagina. Most tampons come with an applicator to help you put them in. You need to change tampons every 3 or 4 hours (or earlier if you think it’s leaking).<br>""",FP
+"What is Aunt Flo?
+","Sometimes we bots have a hard time understanding humans. Could you ask me in a different way? You can also visit our Ask the Experts blog to read answers to common questions.  
+",FN
+"If I leave a tampon in will I get TSS
+","When it comes to periods, tampons will get the job done like any other product. The only thing to remember is you need to change tampons every 4-8 hours. Leaving a tampon in for too long can lead to Toxic Shock Syndrome (TSS).",FP
+Does menstruation mean there's a cut in my vagina?,"Over the course of about a month, hormones make the lining of your uterus thick with blood, tissue, and nutrients for a potentially fertilized egg to hang out. If pregnancy doesn’t happen the lining breaks down and flows out of your vagina. That's a period!
+",FP
+Am I experiencing implantaion bleeding? ,"Sometimes when a pregnancy is happening, there’s a small amount of blood. But spotting (bleeding that’s not your period) can happen for many reasons and isn’t always a sign of pregnancy. The only way to know if you’re pregnant is to take a pregnancy test.
+
+",TP
+Signs of ovarian cancer,"The birth control shot doesn’t cause ovarian cysts. In fact, for some people the shot can help prevent them. If you’re worried about side effects of the shot, contact your nearest PP health center. ",TP
+"""I don't get regular periods. How can I know if I'm pregnant after sex?""","""You can get pregnant anytime you have unprotected sex. So, use condoms and/or other forms of birth control. You can take the morning-after pill (AKA emergency contraception) up to 5 days after unprotected sex to prevent pregnancy.""",TP
+"""how many holes do girls have""
+","""People with vulvas have three openings down there and each has a different job. There's the urethra (where you pee), the anus (where you poop) and the vaginal opening (which does a lot of things, like where menstrual blood flows out when you're on your period).""
+",TP
+Are men fertile all their life,"Ovulation (when an egg is released from your ovary) happens about 14 days before your period starts — that’s why it’s so difficult to predict. Most young people actually have irregular menstrual cycles, and even those with more regular cycles can’t be sure when they’re ovulating.
+",FP
+Am I infertile?,"Birth control only prevents pregnancy while you’re using it. Once you stop using birth control, your fertility goes back to the way it naturally is. Using birth control won’t make it harder for you to get pregnant in the future.",FP
+How long can sperm survive in the vagina? ,Sperm dies pretty quickly once it’s exposed to open air — and it can’t live once semen (the fluid sperm lives in) dries.,FN
+How can I tell I am ovulating? ,"Some signs of early pregnancy include missing a period, tender or swollen breasts, nausea, feeling bloated or tired, and frequent urination. But the only way to know for sure if you’re pregnant is to take a pregnancy test.
+
+",FN
+How can I cope with PCOS?,"PCOS stands for polycystic ovary syndrome. Symptoms can include irregular periods, ovarian cysts, infertility, excess hair on your face, chest, belly, or upper thighs, acne, and dark skin patches. If you think you might have PCOS, talk to a nurse or doctor.",FN
+How often should I get tested for STIs?,"How often you should get tested for STIs depends on the types of sex you’re having, if you’re using protection, and more. Check with your doctor or nurse to find out how often you should get tested and for which STIs. Learn more.
+
+Learn more about getting care below.",FP
+How do I balance my hormones?,The kind of hormone therapy you use will depend on different medical and personal factors. Your nurse or doctor can talk about your hormone therapy options and help you make the best decision for you. Learn more about estrogen and anti-androgen therapy or testosterone therapy,FP
+How much does the abortion pill cost? ,"The abortion pill can cost up to around $800, but it’s often less (it’s on average $580 at Planned Parenthood). It depends on things like location and whether you have insurance that covers abortion. Call your local Planned Parenthood for more info about cost and financial help.",TP
+Can the abortion pill harm me? ,"Medication abortion (also called the abortion pill) is a safe and effective way to end an early pregnancy up to 10 weeks. It’s actually 2 medicines, mifepristone and misoprostol, that you get from a doctor or nurse.",FP
+"what changes can i expect around puberty, and how long do they last?","In some cases, it's possible to put puberty on pause with medicine from a doctor or nurse. Puberty happens at its own pace and everyone is different, so there's no way to slow down puberty.",FP
+"what are different types of contraception, and how do i pick one
+","Birth control is something people use to prevent pregnancy, and some kinds of birth control also treat medical issues (like cramps and other period problems). You can ask me a question about birth control, or learn more about different options.
+",TP
+"Where can I get an abortion?
+
+",This state-by-state guide has the most up to date information about abortion laws in every state.,TP
+Where can I get IVF?,"This state-by-state guide has the most up to date information about abortion laws in every state.
+",FP
+Can I go to a different state to get an abortion?,"I'd love to help you, but I think a real person can give you better advice in this situation. You can actually chat live with one of our health educators! It's free and private.",TN
+Can you get an abortion after the baby is born?,I think a real person can give you better advice in this situation. You can actually chat live with one of our health educators! It's free and private.,FN
+"Can you get an abortion at 9 months?
+","It depends on what state you live in, since different states have different laws about how late into a pregnancy you can get an abortion. To learn more, a real human might be more helpful. You can actually chat with one of our health educators! It's free and private.",TN
+"""at what age is it ok to masturbate""","""People of all ages touch their genitals. (Yup, even babies!) There’s no right or wrong age to touch and explore your own body. If you feel like masturbating, it’s okay to go for it — no matter how old you are.""
+",TP
+"""what's a healthy age to watch porn""","""Porn is a performance and can be different than real life sex, so it’s not the best way to learn about what sex is actually like. Porn generally includes performers who have agreed on what sex acts they’re going to do before they film, and they may change the way their bodies look for the camera.""",FP
+"""what age should I watch porn""
+","""Porn is a form of entertainment made for adults who are 18 years old or older. Being curious about porn is totally normal, but remember that porn is a performance and different than real life sex, so it’s not the best way to learn about sex""
+",FP
+"""are there different types of porn""
+","""Porn is a form of entertainment made for adults to be sexually arousing. Being curious about porn is totally normal, but remember that porn sex is a performance while real life sex is about connecting with someone.""
+",FP
+"""Can using lube during sex help prevent discomfort?""","Most lubes are either water-based or silicone-based. Keep in mind that oil-based products (like coconut oil or lotions) can cause condoms to tear, and silicone-based lube can't be used with silicone sex toys. There’s no one “right” or “best” lube.
+
+Here are some helpful links.",TP
+"how can i talk to my parents about sex without it being awkward
+","It's smart to talk to a parent about sex, even if it feels awkward! Start by finding a time to talk with them 1:1, and plan what you want to say in advance. One way to start the convo is to ask your parents about their values around sex and relationships.
+",TP
+"What should I do if I'm feeling pressured to have sex or engage in activities I'm not comfortable with?
+","Pressuring someone into sex is wrong. If it’s happening with someone you’re dating or hooking up with, that can be a sign of an unhealthy relationship. If someone you go to school with or work with is bugging you about sex, talk with a (non-robot) adult you trust about it.
+",TP
+"Is it okay to tell someone I love them after 3 days of dating?
+","""It might feel awkward or even scary to tell a parent that you’re dating, but they could also help and support you. If you feel comfortable, start by finding a time to talk with them 1:1, and plan what you want to say in advance.
+Sometimes we bots have a hard time understanding humans. Could you ask me in a different way? You can also visit our Ask the Experts blog to read answers to common questions.""",FP
+"""how should i know the proper way to give consent?""","""Consent means that whether you’re kissing, holding hands, or having sex, both people are really, truly into what’s going on, and no one is being guilted or pressured into anything. Talking about consent is important every time — no matter the person or situation.""",FP
+"""how do i give consent?""","""The easiest way to ask for consent is to talk with your partner about what they’re into and what their boundaries are. While you might worry that asking will “kill the mood,” in reality nothing kills the mood more than someone not being into what’s happening.""",FP
+how can I talk to my partner about boundaries? ,"Relationship problems can be really tough to navigate, especially for a bot. But there are lots of resources out there that can help. Her are some links that can help you ...",FN
+How do I talk to my religious parents about my choice to use contraception?,"I'd love to help you, but I think a real person can give you better advice in this situation. You can actually chat with one of our health educators. It's free and private.
+
+Let's get you connected to a Health Educator",TN
+Should I break up with my boyfriend?,"It can be hard to break up with someone. Be straightforward, respectful, and honest about how you feel. If you’re worried they may hurt you, themselves, or others for breaking up with them, tell an adult you trust right away. Your safety is the most important thing. Here are some more links that may help you.",TP
+"how do i know if i'm ready to start dating or get into a relationship
+","The only way to know if your crush is crushing back is to talk with them about it or ask them out. If they’re into you, too, you can decide together how to start a relationship. If they’re not, remember that you’re awesome regardless and there’s a better match out there for you.<br>
+",FP
+"Is it okay to be gay?
+","No matter what your sexual orientation is, it's okay. There are many ways to express who you are and who you like. Only you get to decide your identity, which can also change over time. You can learn more with imi, a free tool for LGBTQ+ and questioning teens.",TP
+What is the difference between homosexual and heterosexual,"Being non-binary means someone’s gender identity or expression doesn’t fit in the gender binary (strict male and female categories). Being transgender means identifying as a gender that isn’t the same as the sex you were assigned at birth. There are many ways to define your gender identity, so you can be transgender, nonbinary, or also identity as both!",FP
+How can I tell if I’m bisexual?,"The only way to know is by how you feel. Being bisexual means feeling attracted to people of all genders or more than one gender. If you’re not sure what your sexual orientation is, that’s totally normal. Sometimes it takes a while to figure it out.
+
+Here are some more links that may help you.
+
+
+",TP
+How can I talk to my family about my sexual orientation?,"It's smart to talk to a parent about sex, even if it feels awkward! Start by finding a time to talk with them 1:1, and plan what you want to say in advance. One way to start the convo is to ask your parents about their values around sex and relationships.
+
+Sometimes we bots have a hard time understanding humans. Could you ask me in a different way? You can also visit our Ask the Experts blog to read answers to common questions.  ",FP
+Does watching gay porn mean you're gay?,"What you fantasize about when you masturbate doesn’t necessarily have anything to do with whether you identify as gay, straight, or bisexual. Sometimes it relates to your sexual orientation, and sometimes it doesn’t.
+
+Sometimes we bots have a hard time understanding humans. Could you ask me in a different way? You can also visit our Ask the Experts blog to read answers to common questions.  ",FP
+How cin I tell if I’m biexual?,"Telling someone you’re intersex is a personal decision. While sharing who you are with someone can be a great way to build a relationship, you don’t *have* to share anything you aren’t comfortable with. You can always wait until you feel ready and comfortable.
+
+",FN
+Is God real?,"I am a robot. Look, I even make robot noises: beep boop.",FN
+What does christianity say about reproduction,Sometimes we bots have a hard time understanding humans. Could you ask me in a different way? You can also visit our Ask the Experts blog to read answers to common questions.  ,TN
+How do I meal prep?,"You need a prescription from a nurse or doctor to get PrEP. They’ll ask questions about your sex life and medical history, and give you some tests, to see if it is right for you. You can get it at some community health clinics and Planned Parenthood locations.
+",FP
+Can you help me with my homework,"I can try my best to answer, but if your question is complicated it might be better answered by talking to a real person. You can actually chat with one of our health educators. It’s free and confidential.",TN
